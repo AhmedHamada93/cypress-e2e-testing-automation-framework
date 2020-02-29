@@ -18,4 +18,4 @@ E2E tests Framework written in [Cypress](https://www.cypress.io/).
 * Run all tests with report `npm run tests-with-report`
 
 ## Report Example
-![Alt text](https://ibb.co/zQsVcPj)
+![Alt text](https://i.ibb.co/VJVYyMr/Screen-Shot-2020-02-29-at-2-21-28-AM.png)
