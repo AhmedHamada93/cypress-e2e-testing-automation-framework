@@ -1,0 +1,21 @@
+{
+  "name": "cypress-e2e-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run",
+    "tests-with-report": "cypress run --reporter mochawesome --reporter-options configFile=reporter-config.json"
+  },
+  "keywords": [],
+  "author": "Ahmed Hamada",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "mochawesome": "^5.0.0",
+    "mochawesome-merge": "^4.0.1",
+    "mochawesome-report-generator": "^4.1.0"
+  }
+}

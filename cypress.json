@@ -1,0 +1,7 @@
+{
+  "watchForFileChanges": false,
+  "env": {
+    "ADMIN_USERNAME": "tomsmith",
+    "ADMIN_PASSWORD": "SuperSecretPassword!"
+  }
+}
